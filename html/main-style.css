@@ -1,0 +1,49 @@
+﻿body {
+	color: #FFFF00;
+	font-family: Consolas;
+	font-size: medium;
+	font-variant: normal;
+	background-color: #000000;
+	list-style-image: url('/graphics/bullet/pr_diam.gif');
+}
+a:active {
+	color: #FFFFFF;
+	font-style: italic;
+}
+a:hover {
+	color: #FFFF33;
+	text-decoration: underline;
+}
+a:link {
+	color: #FFFF00;
+}
+a:visited {
+	color: #d1d100;
+}
+h1 {
+	font-size: xx-large;
+	font-style: italic;
+	font-variant: normal;
+	color: #00FFFF;
+}
+h2 {
+	font-size: x-large;
+	font-style: italic;
+	font-variant: normal;
+	color: #33CCCC;
+}
+p {
+	font-family: Consolas;
+	font-size: medium;
+	color: #FFFF99;
+}
+table, th, td {
+	border-collapse: collapse;
+	width: 25%;
+	border: 1px solid;
+	padding: 15px;
+	font-family: Consolas;
+	font-size: medium;
+	color: #FFFF00;
+	white-space: pre-line;
+}
