@@ -1,4 +1,5 @@
 ﻿body {
+	width: 600px;
 	color: #FFFF00;
 	font-family: Consolas;
 	font-size: medium;
@@ -6,6 +7,15 @@
 	background-color: #000000;
 	list-style-image: url('/graphics/bullet/pr_diam.gif');
 }
+button {
+	border-color: #FFFF00;
+	width: 50px;
+	height: 32px;
+	background-color: #000000;
+	color: #FFFF00;
+	border: #FFFF00 ridge;
+}
+
 a:active {
 	color: #FFFFFF;
 	font-style: italic;
