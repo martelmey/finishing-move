@@ -48,7 +48,7 @@ p {
 }
 table, th, td {
 	border-collapse: collapse;
-	width: 50%;
+	width: 100%;
 	border: 1px solid;
 	padding: 15px;
 	font-family: Consolas;
