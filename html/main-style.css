@@ -1,5 +1,4 @@
 ﻿body {
-	width: 600px;
 	color: #FFFF00;
 	font-family: Consolas;
 	font-size: medium;
@@ -49,7 +48,7 @@ p {
 }
 table, th, td {
 	border-collapse: collapse;
-	width: 25%;
+	width: 50%;
 	border: 1px solid;
 	padding: 15px;
 	font-family: Consolas;
